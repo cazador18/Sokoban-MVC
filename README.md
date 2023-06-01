@@ -11,9 +11,8 @@ Controller: The Controller acts as an intermediary between the Model and the Vie
 
 By employing the MVC architecture, the "Sokoban-MVC" project achieves separation of concerns, making the codebase more modular, maintainable, and scalable. The Model encapsulates the data and business rules, the View focuses on presentation and user interaction, and the Controller coordinates the flow of data and user actions between the Model and the View.
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-06-01 at 14 23 51](https://github.com/cazador18/Sokoban-MVC/assets/80050947/69e9b964-1665-4982-8a4b-2e67d31b343f)
 
-
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-01 at 14 23 51](https://github.com/cazador18/Sokoban-MVC/assets/80050947/903657e8-f28b-4f50-98ec-3dc20c4ceee1)
-
+![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-06-01 at 14.24.02.png…]()
 
 
